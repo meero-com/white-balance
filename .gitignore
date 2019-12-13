@@ -28,6 +28,7 @@
 # txt
 *.[tT][xX][tT]
 !CMakeLists.txt
+!requirements.txt
 
 # npy
 *.[nN][pP][yY]
